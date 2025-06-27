@@ -1,0 +1,6 @@
+[Adblock Plus 2.0]
+! Title: ▶️ Clean up YouTube
+! Description: Clean up YouTube
+! Homepage: https://github.com/oneiricsky/blocklists/blob/main/youtube.txt
+! Version: 27 June 2025
+! Syntax: AdBlock
